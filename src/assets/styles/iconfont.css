@@ -1,0 +1,16 @@
+@font-face {font-family: "iconfont";
+  src: url('./iconfont/iconfont.eot?t=1578802188888'); /* IE9 */
+  src: url('./iconfont/iconfont.eot?t=1578802188888#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPEAAsAAAAAB+AAAAN1AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqCeIJSATYCJAMUCwwABCAFhG0HUBvmBlFUTvJkPzV5Egg2EwQUggcAR8B3lJ+9tXg6fuYQWMBBPPz/Gu2+L7MqbRfTZBU/nUQySZtoYpXkTT0StQT89Bkkk+dyLfeLKEzGF5DUoyocbO44N8mmCK66RrAyX0eqFY5kXZ8ehJxxBElxIrUs4Cq68ifG2dTUoCQksAQQUY6grm9PtIXySPn/j3tVMy0C89m3uMw9KBfAcIACugdm+ypgC9KCcR2Ity7zMIFhi9qk9i2sZaFKYYwKxJLnGFCVUik12WFQaEoWFnEdqsF0taSIa/7Pxz9booqkZsZR+0/P2zDV6t7n0/8rDuYLuDKeAdwyMjYDhThTalpSGoY2KzWs/F2ZXcCwQUlqtatbTvfQ96i8HUmGTZEx/vGSQjSMzFGwC+FCy0bItKsRgnYLQqJ7z3kxpRUMw6WdBG4zCKsZQ6blM6O4R54cai6y+1hgeHqVSRHl7RfRvsF47/r2Lf/+vfD6NffyJWAk6eBn8WWMm8lhh9T0hts9Ku32phGnJkBmA52wA1Zd9bPHwkP5qfhsGN8X3jSpYA26QQWpGR3Zrvj9uzuVeLyJz/8i495k9+Ht9rj1NXIPXVf6AG8ZwT0YMQN0xD9MNsGfP5c6/GssA0yaDv51lF4Pj1myl7NTUi8AwyRzydgYgJz/mLzEZrqsdOLvKiIW3x095ApMFOmJkb8ue9jRk3xufxdrDOef6E+plyuZXVEAvaS/fAH6y7p0CoB8q3QdoP85S//b77izo/QdaRz7P1hbwK8j6XXf2UuB/qyXL9aa/ZfYLVuKyjXUtciNNktOrzYq5V45P6Tu39imfY4jmWudSRg0F0MyYAGyQavRBb8ZqhHboDFoJwzbZHH5iBlSqShD2OiKQJj0BMm4T5BNekYX/AdU876gMRmlMOxAtG44Ym14NbMSDUKbmXvMs0TMLS3VBNlpdHRoyCTXJ+ZRKs/Luju6stFFjFGOMUVtOz1EnHEpIrZAjsMwFCyRwkeLOlyiZKSzk5c9qMMSEdTYS0IGgmyMaQ/jsQgx7nYmNbnvT0MOLWSQNU0V2jwkKV7vTLcOXS3Qi6K4VdO1nKJsc/QghGM4SYgwC8SAQjMkMEl5Px+ykA5uj0BiRCfVjrcVdcwviZ5xFwwzrlIjRY4SNRrNaSN2tVehhFZa1PqeEZPQXd2mo4J0klICAAAAAA==') format('woff2'),
+  url('./iconfont/iconfont.woff?t=1578802188888') format('woff'),
+  url('./iconfont/iconfont.ttf?t=1578802188888') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./iconfont/iconfont.svg?t=1578802188888#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
